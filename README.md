@@ -1,1 +1,1 @@
-# Inheritance-Design-Lab-
+# This folder contains the HospitalEmployee file 
